@@ -24,6 +24,7 @@ Para iniciar el backend, abre una terminal y ejecuta el siguiente comando:
 
 ```bash
 node index.js
+```
 
 ## Iniciar el Frontend
 
@@ -31,15 +32,16 @@ Para iniciar el frontend, necesitarás abrir **dos terminales**. A continuación
 
 ### 1. Terminal para el Servidor Metro
 
-1. Abre una terminal dentro del directorio **cliente**.
-2. Ejecuta el siguiente comando para iniciar el servidor de desarrollo:
+#### 1.1. Abre una terminal dentro del directorio **cliente**.
+#### 1.2. Ejecuta el siguiente comando para iniciar el servidor de desarrollo:
 
    ```bash
    npx react-native start
+   ```
 
-### 1. Terminal para el Emulador android
-1. Abre una terminal dentro del directorio **cliente**.
-2. Ejecuta el siguiente comando para iniciar el servidor de desarrollo:
+### 2. Terminal para el Emulador android
+#### 2.1. Abre una terminal dentro del directorio **cliente**.
+#### 2.2. Ejecuta el siguiente comando para iniciar el servidor de desarrollo:
    ```bash
    npx react-native run-android
-   
+   ```
